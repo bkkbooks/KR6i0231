@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0231/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 龍王兄弟經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0597.xml
+    old_id: T15n0597
+hash: sha256:07cc4d3a1eb4e0bf7afbbaa3b3f607574693f3b95aeb5087acc976a05178b837

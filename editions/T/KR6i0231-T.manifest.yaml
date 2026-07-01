@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0231/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0231/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 龍王兄弟經
+  identifiers:
+    krp: KR6i0231
+    cbeta: T15n0597
+    cbeta_old_id: T15n0597
+    authorityid: CA0002119
+    json_key: T0597
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0597.xml
+    old_id: T15n0597
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0231_000-T.yaml, hash: 'sha256:07cc4d3a1eb4e0bf7afbbaa3b3f607574693f3b95aeb5087acc976a05178b837'}
+  - {seq: 1, filename: KR6i0231_001-T.yaml, hash: 'sha256:01543ecb19269ef591de8ab5d22c305425ff4862b775dd99fd1ad9906765098d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0231_000-T.markers.yaml, hash: 'sha256:222a2514dbdcc6ec8452cefa0e607fc0fec54161422b631a1b344e3be2b47f19'}
+  - {seq: 1, role: markers, filename: assets/KR6i0231_001-T.markers.yaml, hash: 'sha256:0dd979ed444b8781fb9e0de4a9acad352cd5fe0628bcb66cec002997a7aefd35'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0231_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 804
+  label: 龍王兄弟經
+  type: juan
+  level: 1
+hash: sha256:ebc1034c7b27bee34818e6567fbaf4464f5be2c751a09ccfe1da1d85e9a391ff
