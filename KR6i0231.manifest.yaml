@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0231_000.yaml, hash: 'sha256:07cc4d3a1eb4e0bf7afbbaa3b3f607574693f3b95aeb5087acc976a05178b837'}
-  - {seq: 1, filename: KR6i0231_001.yaml, hash: 'sha256:e43584f2d95c1eccab4dbe5ca4d69dd4371cbbd58497b67185d20668e91869bc'}
+  - {seq: 1, filename: KR6i0231_001.yaml, hash: 'sha256:01543ecb19269ef591de8ab5d22c305425ff4862b775dd99fd1ad9906765098d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0231_001.markers.yaml, hash: 'sha256:3fb17ca0129cb3acbb6b703b7a445b84d6a3ebaafc0d26189331f6e76d26b59c'}
+  - {seq: 0, role: markers, filename: assets/KR6i0231_000.markers.yaml, hash: 'sha256:a64fa23908c88657fcafbe0388dfb6319ed97257018faae9ebedc2b3ed1bdfcd'}
+  - {seq: 1, role: markers, filename: assets/KR6i0231_001.markers.yaml, hash: 'sha256:fd0e176ec3b385ae1f0136fff67f26243c568243ffe3d829dd2d9178976e0bf7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 龍王兄弟經
   type: juan
   level: 1
-hash: sha256:5a083a78ce0c872867d0c92fabcb41f704a776eff69c3b366d36d08c9f4d6a88
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1de128f1f330d3fa3052ae7e08ff9e92e7d6e9fbb62aadfb7273aa7dc839bff8
