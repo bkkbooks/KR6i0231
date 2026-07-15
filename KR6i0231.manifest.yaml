@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0231/v1
 canonical_location: https://kanripo.org/bkk/KR6i0231/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 龍王兄弟經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0231_000.yaml, hash: 'sha256:07cc4d3a1eb4e0bf7afbbaa3b3f607574693f3b95aeb5087acc976a05178b837'}
-  - {seq: 1, filename: KR6i0231_001.yaml, hash: 'sha256:01543ecb19269ef591de8ab5d22c305425ff4862b775dd99fd1ad9906765098d'}
+  - {seq: 1, filename: KR6i0231_001.yaml, hash: 'sha256:12077a219e87efec2762737bdd5e0862ef53c8ebaf029f4c7e33f1e974272ca3'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0231_000.markers.yaml, hash: 'sha256:a64fa23908c88657fcafbe0388dfb6319ed97257018faae9ebedc2b3ed1bdfcd'}
-  - {seq: 1, role: markers, filename: assets/KR6i0231_001.markers.yaml, hash: 'sha256:fd0e176ec3b385ae1f0136fff67f26243c568243ffe3d829dd2d9178976e0bf7'}
+  - {seq: 1, role: markers, filename: assets/KR6i0231_001.markers.yaml, hash: 'sha256:1bd4bc2da48e04defc289b94f0eb2294f6ebff7f801e53ee4429cad52700b80f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 龍王兄弟經
   type: juan
   level: 1
-hash: sha256:1de128f1f330d3fa3052ae7e08ff9e92e7d6e9fbb62aadfb7273aa7dc839bff8
+hash: sha256:521787eb09986e370e167be14f3caf3c8b812fc35587d10332499579ab280316
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
